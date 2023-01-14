@@ -1,6 +1,6 @@
 # Hi, I'm Jaen
 
-<img align='right' src="https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif" width="230">
+<---  <img align='right' src="https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif" width="230"> /--->
 
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
 
