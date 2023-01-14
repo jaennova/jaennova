@@ -1,7 +1,5 @@
 # Hi, I'm Jaen
 
-<---  <img align='right' src="https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif" width="230"> /--->
-
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
 
 _Future developer of mobile applications with [Kotlin](https://kotlinlang.org) and [Swift](https://swift.org)_ 🔬
