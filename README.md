@@ -2,7 +2,7 @@
 
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
 
-<---_Future developer of mobile applications with [Kotlin](https://kotlinlang.org) and [Swift](https://swift.org)_ 🔬/--->
+<!---_Future developer of mobile applications with [Kotlin](https://kotlinlang.org) and [Swift](https://swift.org)_ 🔬/--->
 
 [![Twitter: ngwtzll](https://img.shields.io/twitter/follow/ngwtzll?style=social)](https://twitter.com/ngwtzll)
 [![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
