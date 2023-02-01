@@ -27,5 +27,3 @@ val jaen = mapOf(
 )
 
 ```
-
----
