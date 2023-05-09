@@ -23,7 +23,7 @@ val jaen = mapOf(
         "Figma" to "Design"
     ),
     "currentFocus" to "No Focus point at this time",
-    "challenge" to "I am doing the #100DaysOfCode challenge focused on Kotlin for Android"
+    "challenge" to "I need to stop procrastinating and finish the projects I left unfinished."
 )
 
 ```
