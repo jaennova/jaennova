@@ -12,9 +12,9 @@
 val jaen = mapOf(
     "code" to listOf("Kotlin", "Java", "Python"),
     "codeEditors" to listOf(
-        "Intellij", 
+        "Intellij Idea", 
         "VSCode",
-        "AndroidStudio", 
+        "Android Studio", 
         "Neovim"
     ),
     "tools" to mapOf(
