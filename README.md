@@ -21,6 +21,7 @@ val jaen = mapOf(
         "MySQL" to "DataBases",
         "Notion" to "Productive",
         "Figma" to "Design"
+        "Jira" to "Development"
     ),
     "currentFocus" to "No Focus point at this time",
     "challenge" to "I need to stop procrastinating and finish the projects I left unfinished."
