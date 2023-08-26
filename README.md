@@ -40,6 +40,8 @@ class Developer(
 fun main() {
     println("Welcome to ${jaen.name}'s GitHub profile!")
     println("🚀 Currently focusing on: ${jaen.currentFocus}")
+    println("💻 Proficient in languages: ${jaen.languages.joinToString()}")
+    println("🛠️ Preferred code editors: ${jaen.codeEditors.joinToString()}")
     println("🔧 Favorite Tools:")
     jaen.tools.forEach { (tool, category) ->
         println("   - $tool (Category: $category)")
