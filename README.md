@@ -9,19 +9,6 @@ _Future developer of mobile applications with [Kotlin](https://kotlinlang.org) a
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
 
 ```kotlin
-fun main() {
-    println("Welcome to ${jaen.name}'s GitHub profile!")
-    println("🚀 Currently focusing on: ${jaen.currentFocus}")
-    println("💻 Proficient in languages: ${jaen.languages.joinToString()}")
-    println("🛠️ Preferred code editors: ${jaen.codeEditors.joinToString()}")
-    println("🔧 Favorite Tools:")
-    jaen.tools.forEach { (tool, category) ->
-        println("   - $tool (Category: $category)")
-    }
-    println("🎯 Biggest Challenge: ${jaen.challenge}")
-    println("🌐 Connect with me on GitHub and let's innovate together!")
-}
-
 val jaen = Developer(
     name = "Jaen",
     languages = listOf("Kotlin", "Java", "Python"),
@@ -49,5 +36,17 @@ class Developer(
     val currentFocus: String,
     val challenge: String
 )
+fun main() {
+    println("Welcome to ${jaen.name}'s GitHub profile!")
+    println("🚀 Currently focusing on: ${jaen.currentFocus}")
+    println("💻 Proficient in languages: ${jaen.languages.joinToString()}")
+    println("🛠️ Preferred code editors: ${jaen.codeEditors.joinToString()}")
+    println("🔧 Favorite Tools:")
+    jaen.tools.forEach { (tool, category) ->
+        println("   - $tool (Category: $category)")
+    }
+    println("🎯 Biggest Challenge: ${jaen.challenge}")
+    println("🌐 Connect with me on GitHub and let's innovate together!")
+}
 ```
 
