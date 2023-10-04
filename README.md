@@ -29,26 +29,5 @@ val jaen = Developer(
     currentFocus = "Exploring new technologies and learning every day",
     challenge = "Turning unfinished ideas into impactful solutions"
 )
-
-class Developer(
-    val name: String,
-    val languages: List<String>,
-    val codeEditors: List<String>,
-    val tools: Map<String, String>,
-    val currentFocus: String,
-    val challenge: String
-)
-fun main() {
-    println("Welcome to ${jaen.name}'s GitHub profile!")
-    println("🚀 Currently focusing on: ${jaen.currentFocus}")
-    println("💻 Proficient in languages: ${jaen.languages.joinToString()}")
-    println("🛠️ Preferred code editors: ${jaen.codeEditors.joinToString()}")
-    println("🔧 Favorite Tools:")
-    jaen.tools.forEach { (tool, category) ->
-        println("   - $tool (Category: $category)")
-    }
-    println("🎯 Biggest Challenge: ${jaen.challenge}")
-    println("🌐 Connect with me on GitHub and let's innovate together!")
-}
 ```
 Run this code [here](https://pl.kotl.in/AsCUF5833)
