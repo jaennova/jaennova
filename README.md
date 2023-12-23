@@ -8,26 +8,22 @@ _Future developer of mobile applications with [Kotlin](https://kotlinlang.org) a
 -->
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
+<!--### A little more about me  -->
 
 ```kotlin
-val jaen = Developer(
+val developer = Developer(
     name = "Jaen",
-    languages = listOf("Kotlin", "Java", "Python"),
-    codeEditors = listOf(
-        "Intellij IDEA", 
-        "Visual Studio Code",
-        "Android Studio", 
-        "Neovim"
-    ),
+    skills = listOf("Kotlin", "Java", "Python"),
     tools = mapOf(
-        "MySQL" to "Databases",
-        "Notion" to "Productivity",
-        "Figma" to "Design",
-        "Jira" to "Project Management"
+        "Intellij IDEA" to "Coding",
+        "Visual Studio Code" to "Coding",
+        "Android Studio" to "App Development",
+        "Neovim" to "Text Editing"
     ),
-    currentFocus = "Exploring new technologies and learning every day",
-    challenge = "Turning unfinished ideas into impactful solutions"
+    technologies = listOf("MySQL", "Notion", "Figma", "Jira"),
+    interests = "Exploring new technologies and continuous learning",
+    currentChallenge = "Transforming ideas into impactful solutions"
 )
+
 ```
-Run this code [here](https://pl.kotl.in/AsCUF5833)
+<!-- Run this code [here](https://pl.kotl.in/AsCUF5833) -->
