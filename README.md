@@ -2,7 +2,7 @@
 
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
 
-_Developer of mobile applications using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/develop/ui/compose?hl=es-419)_ 🔬/
+_Developer of mobile applications using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/develop/ui/compose?hl=es-419)_ 🔬
 
 [![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
 
@@ -27,6 +27,8 @@ val developer = Developer(
 
 ```
 
+Run this code [here](https://pl.kotl.in/AsCUF5833)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -35,4 +37,5 @@ val developer = Developer(
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaennova&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-<!-- Run this code [here](https://pl.kotl.in/AsCUF5833) -->
+
+
