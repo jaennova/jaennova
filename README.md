@@ -1,11 +1,11 @@
-<!--# Hi, I'm Jaen
+# Hi, I'm Jaen
 
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
 
-_Future developer of mobile applications with [Kotlin](https://kotlinlang.org) and [Swift](https://swift.org)_ 🔬/
+_Developer of mobile applications using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/develop/ui/compose?hl=es-419)_ 🔬/
 
 [![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
--->
+
 
 
 <!--### A little more about me  -->
@@ -20,7 +20,7 @@ val developer = Developer(
         "Android Studio" to "App Development",
         "Neovim" to "Text Editing"
     ),
-    technologies = listOf("MySQL", "Notion", "Figma", "Jira"),
+    technologies = listOf("MySQL", "Notion", "Linux", "Docker"),
     interests = "Exploring new technologies and continuous learning",
     currentChallenge = "Transforming ideas into impactful solutions"
 )
