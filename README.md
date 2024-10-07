@@ -1,11 +1,11 @@
 # Hi, I'm Jaen
-
+<!--
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
 
 _Developer of mobile applications using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/develop/ui/compose?hl=es-419)_ 🔬
 
 [![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
-
+-->
 
 
 <!--### A little more about me  -->
