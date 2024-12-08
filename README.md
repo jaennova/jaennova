@@ -20,7 +20,7 @@ val developer = Developer(
         "Android Studio" to "App Development",
         "Neovim" to "Text Editing"
     ),
-    technologies = listOf("MySQL", "Notion", "Linux", "Docker"),
+    technologies = listOf("Postgres", "Notion", "Linux", "Docker"),
     interests = "Exploring new technologies and continuous learning",
     currentChallenge = "Transforming ideas into impactful solutions"
 )
