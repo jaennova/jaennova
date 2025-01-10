@@ -1,35 +1,42 @@
-# Hi, I'm Jaen
-<!--
-_Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻
+# Hi, I'm Jaen 🚀
 
-_Developer of mobile applications using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/develop/ui/compose?hl=es-419)_ 🔬
+_Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻  
+_Passionate about technology, software development, Linux, cloud computing, web and mobile applications, cybersecurity, and DevOps._  
 
-[![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
--->
+I focus on **backend development with Python** and **web technologies like Astro and Svelte**, but I also enjoy exploring mobile app development with Kotlin and Jetpack Compose. My goal is to build scalable and impactful solutions while continuously learning and growing as a developer.  
 
+[![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)  
 
-<!--### A little more about me  -->
+---
 
 ```kotlin
 val developer = Developer(
     name = "Jaen",
-    skills = listOf("Kotlin", "Java", "Python"),
+    skills = listOf("Kotlin", "Python", "Java", "JavaScript"),
     tools = mapOf(
-        "Intellij IDEA" to "Coding",
-        "Visual Studio Code" to "Coding",
-        "Android Studio" to "App Development",
+        "Android Studio" to "Mobile App Development",
+        "Visual Studio Code" to "Web Development",
+        "IntelliJ IDEA" to "Coding",
         "Neovim" to "Text Editing"
     ),
-    technologies = listOf("Postgres", "Notion", "Linux", "Docker"),
-    interests = "Exploring new technologies and continuous learning",
-    currentChallenge = "Transforming ideas into impactful solutions"
+    technologies = listOf("FastAPI", "PostgreSQL", "MongoDB", "Docker", "Linux"),
+    interests = listOf("Cybersecurity", "Cloud Computing", "DevOps", "APIs"),
+    currentChallenge = "Building scalable systems with Python and FastAPI",
+    goals = "Contribute to meaningful projects and support underrepresented communities through technology"
 )
-
 ```
 
-Run this code [here](https://pl.kotl.in/AsCUF5833)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🌟 Highlights  
+- **Backend Development**: Focused on building APIs with FastAPI and Python.  
+- **Web Development**: Creating interactive web apps with frameworks like Astro and Svelte.  
+- **Mobile Development**: Experience with Kotlin and Jetpack Compose for Android.  
+- **Cloud and DevOps**: Exploring containerization with Docker and cloud computing solutions.  
+- **Cybersecurity**: Interested in building secure applications and APIs.  
+
+---
+
+### ⚙️ GitHub Analytics  
 
 <p align="center">
 <a href="https://github.com/jaennova">
@@ -38,4 +45,11 @@ Run this code [here](https://pl.kotl.in/AsCUF5833)
 </a>
 </p>
 
+---
 
+### 📬 Let's Connect!  
+- **LinkedIn**: [@jaennova](https://www.linkedin.com/in/jaennova/)  
+- **Email**: [jaennova@outlook.com](mailto:jaennova@outlook.com)  
+- **Portfolio**: [Go to my portfolio](https://jaenn.netlify.app)  
+
+Feel free to reach out for collaboration or just to chat about tech!  
