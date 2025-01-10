@@ -5,10 +5,8 @@ _Passionate about technology, software development, Linux, cloud computing, web 
 
 I focus on **backend development with Python** and **web technologies like Astro and Svelte**, but I also enjoy exploring mobile app development with Kotlin and Jetpack Compose. My goal is to build scalable and impactful solutions while continuously learning and growing as a developer.  
 
-[![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)  
-
----
-
+![GitHub User's stars](https://img.shields.io/github/stars/jaennova)
+[![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
 ```kotlin
 val developer = Developer(
     name = "Jaen",
