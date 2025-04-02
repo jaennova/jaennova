@@ -1,40 +1,40 @@
 # Hi, I'm Jaen 🚀
 
 _Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻  
-_Passionate about technology, software development, Linux, cloud computing, web and mobile applications, cybersecurity, and DevOps._  
+_Passionate about technology, mobile development, and creating impactful software solutions._
 
-I focus on **backend development with Python** and **web technologies like Astro and Svelte**, but I also enjoy exploring mobile app development with Kotlin and Jetpack Compose. My goal is to build scalable and impactful solutions while continuously learning and growing as a developer.  
+I specialize in **Android Development** using **Kotlin** and **Jetpack Compose** to build modern, intuitive mobile applications. Alongside mobile development, I work on **backend development with Python** and explore web technologies like Astro and Svelte. My goal is to build scalable, secure, and innovative solutions while continuously learning and growing as a developer.
 
 ![GitHub User's stars](https://img.shields.io/github/stars/jaennova)
 [![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
+
 ```kotlin
 val developer = Developer(
     name = "Jaen",
     skills = listOf("Kotlin", "Python", "Java", "JavaScript"),
     tools = mapOf(
         "Android Studio" to "Mobile App Development",
-        "Visual Studio Code" to "Web Development",
+        "Visual Studio Code" to "Web & Backend Development",
         "IntelliJ IDEA" to "Coding",
         "Neovim" to "Text Editing"
     ),
-    technologies = listOf("FastAPI", "PostgreSQL", "MongoDB", "Docker", "Linux"),
-    interests = listOf("Cybersecurity", "Cloud Computing", "DevOps", "APIs"),
-    currentChallenge = "Building scalable systems with Python and FastAPI",
-    goals = "Contribute to meaningful projects and support underrepresented communities through technology"
+    technologies = listOf("Jetpack Compose", "FastAPI", "PostgreSQL", "MongoDB", "Docker", "Linux"),
+    interests = listOf("Mobile Development", "Cybersecurity", "Cloud Computing", "DevOps", "APIs"),
+    currentChallenge = "Building intuitive Android apps with scalable architectures",
+    goals = "Create innovative mobile solutions and contribute to projects that drive change"
 )
 ```
 
-
-### 🌟 Highlights  
-- **Backend Development**: Focused on building APIs with FastAPI and Python.  
-- **Web Development**: Creating interactive web apps with frameworks like Astro and Svelte.  
-- **Mobile Development**: Experience with Kotlin and Jetpack Compose for Android.  
-- **Cloud and DevOps**: Exploring containerization with Docker and cloud computing solutions.  
-- **Cybersecurity**: Interested in building secure applications and APIs.  
+### 🌟 Highlights
+- **Android Development**: Expertise in Kotlin, Jetpack Compose, and modern Android architectural patterns (MVVM).  
+- **Backend Development**: Building APIs with FastAPI and Python.  
+- **Web Development**: Crafting interactive web apps using frameworks like Astro and Svelte.  
+- **Cloud & DevOps**: Containerization with Docker and exploring cloud solutions.  
+- **Cybersecurity**: Ensuring secure applications and robust API integrations.
 
 ---
 
-### ⚙️ GitHub Analytics  
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jaennova">
@@ -45,9 +45,9 @@ val developer = Developer(
 
 ---
 
-### 📬 Let's Connect!  
+### 📬 Let's Connect!
 - **LinkedIn**: [@jaennova](https://www.linkedin.com/in/jaennova/)  
 - **Email**: [jaennova@outlook.com](mailto:jaennova@outlook.com)  
 - **Portfolio**: [Go to my portfolio](https://jaenn.netlify.app)  
 
-Feel free to reach out for collaboration or just to chat about tech!  
+Feel free to reach out for collaboration or just to chat about mobile development and tech in general!
