@@ -1,8 +1,5 @@
 # Hi, I'm Jaen 🚀
 
-_Computer Systems Engineering Student at [Instituto Tecnológico de Acapulco](https://acapulco.tecnm.mx)_ 💻  
-_Passionate about technology, mobile development, and creating impactful software solutions._
-
 I specialize in **Android Development** using **Kotlin** and **Jetpack Compose** to build modern, intuitive mobile applications. Alongside mobile development, I work on **backend development with Python** and explore web technologies like Astro and Svelte. My goal is to build scalable, secure, and innovative solutions while continuously learning and growing as a developer.
 
 ![GitHub User's stars](https://img.shields.io/github/stars/jaennova)
@@ -45,8 +42,7 @@ val developer = Developer(
 
 ---
 
-### 📬 Let's Connect!
-- **LinkedIn**: [@jaennova](https://www.linkedin.com/in/jaennova/)  
+### 📬 Let's Connect! 
 - **Email**: [jaennova@outlook.com](mailto:jaennova@outlook.com)  
 - **Portfolio**: [Go to my portfolio](https://jaenn.netlify.app)  
 
