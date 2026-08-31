@@ -1,33 +1,37 @@
-# Hi, I'm Jaen 🚀
+# Hi, I'm Jaen 🛡️
 
-I specialize in **Android Development** using **Kotlin** and **Jetpack Compose** to build modern, intuitive mobile applications. Alongside mobile development, I work on **backend development with Python** and explore web technologies like Astro and Svelte. My goal is to build scalable, secure, and innovative solutions while continuously learning and growing as a developer.
+I'm an aspiring **SOC Analyst** focused on detection engineering, log analysis, and threat visibility. I build and break things in my own home lab — **Wazuh**, **Sysmon**, and Windows event telemetry mapped to **MITRE ATT&CK** — to understand how attacks look from the defender's side. I come from a software development background (Android/Kotlin, Python, web), which I now bring into security: scripting, automation, and a solid grip on how the systems I'm defending actually work under the hood.
 
 ![GitHub User's stars](https://img.shields.io/github/stars/jaennova)
 [![GitHub Jaen](https://img.shields.io/github/followers/jaennova?label=follow&style=social)](https://github.com/jaennova)
 
-```kotlin
-val developer = Developer(
-    name = "Jaen",
-    skills = listOf("Kotlin", "Python", "Java", "JavaScript"),
-    tools = mapOf(
-        "Android Studio" to "Mobile App Development",
-        "Visual Studio Code" to "Web & Backend Development",
-        "IntelliJ IDEA" to "Coding",
-        "Neovim" to "Text Editing"
-    ),
-    technologies = listOf("Jetpack Compose", "FastAPI", "PostgreSQL", "MongoDB", "Docker", "Linux"),
-    interests = listOf("Mobile Development", "Cybersecurity", "Cloud Computing", "DevOps", "APIs"),
-    currentChallenge = "Building intuitive Android apps with scalable architectures",
-    goals = "Create innovative mobile solutions and contribute to projects that drive change"
-)
+```python
+analyst = {
+    "name": "Jaen",
+    "focus": ["SOC Analysis", "Detection Engineering", "Threat Detection", "Incident Response"],
+    "skills": ["Python", "Bash", "Kotlin", "Java"],
+    "tools": {
+        "Wazuh": "SIEM / Log Analysis & Detection",
+        "Sysmon": "Windows Endpoint Telemetry",
+        "VirtualBox": "Home Lab Infrastructure",
+        "Kali Linux": "Offensive Recon & Testing",
+        "Neovim / VS Code": "Scripting & Documentation",
+    },
+    "frameworks": ["MITRE ATT&CK", "NIST", "OSI / TCP-IP"],
+    "also_know": ["Jetpack Compose", "FastAPI", "PostgreSQL", "MongoDB", "Docker", "Linux"],
+    "current_focus": "Building detection rules and investigating simulated attacks in my home SOC lab",
+    "goal": "Land my first SOC Analyst role and keep growing into detection engineering",
+}
 ```
 
 ### 🌟 Highlights
-- **Android Development**: Expertise in Kotlin, Jetpack Compose, and modern Android architectural patterns (MVVM).  
-- **Backend Development**: Building APIs with FastAPI and Python.  
-- **Web Development**: Crafting interactive web apps using frameworks like Astro and Svelte.  
-- **Cloud & DevOps**: Containerization with Docker and exploring cloud solutions.  
-- **Cybersecurity**: Ensuring secure applications and robust API integrations.
+
+- **SOC & Detection**: Home lab built on Wazuh + Sysmon, mapping Windows events to MITRE ATT&CK techniques.
+- **Log & Endpoint Analysis**: Investigating authentication events, account management, and process execution telemetry.
+- **Scripting & Automation**: Python and Bash for parsing logs, automating lab tasks, and building small security tooling.
+- **Networking Fundamentals**: Solid grasp of OSI/TCP-IP models applied to real traffic and log analysis.
+- **Systems Background**: Linux administration and Docker, from a hands-on network/server admin practicum.
+- **Dev Roots**: Android (Kotlin, Jetpack Compose) and backend (FastAPI, Python) — the engineering foundation behind my security work.
 
 ---
 
@@ -42,8 +46,9 @@ val developer = Developer(
 
 ---
 
-### 📬 Let's Connect! 
-- **Email**: [jaennova@outlook.com](mailto:jaennova@outlook.com)  
-- **Portfolio**: [Go to my portfolio](https://jaenn.netlify.app)  
+### 📬 Let's Connect!
 
-Feel free to reach out for collaboration or just to chat about mobile development and tech in general!
+- **Email**: [jaennova@outlook.com](mailto:jaennova@outlook.com)
+- **Portfolio**: [Go to my portfolio](https://jaenn.netlify.app)
+
+Open to SOC Analyst opportunities — feel free to reach out to talk security, home labs, or tech in general!
